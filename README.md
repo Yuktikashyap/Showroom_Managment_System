@@ -11,7 +11,7 @@ Welcome to the Showroom Management System! This repository contains the code for
 - **Concepts of OOPs**
 
 ## 📂 Project Functions
-. add New Showroom
+- add New Showroom
 - add New EMployee
 - add New Cars
 - get the details of Showrooms
